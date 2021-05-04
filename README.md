@@ -1,16 +1,43 @@
-# aog
+# Projeto `Álcool ou Gasolina`
 
-A new Flutter project.
+# Sobre o projeto
 
-## Getting Started
+Projeto desenvolvido durante o curso **Flutter Apps: Alcool ou Gasolina (100%)** ministrado por André Baltieri utilizando DART como linguagem. 
+Curso disponível em: 
 
-This project is a starting point for a Flutter application.
+https://balta.io/carreiras/desenvolvedor-mobile-flutter
 
-A few resources to get you started if this is your first Flutter project:
+A aplicação consiste em uma api REST utilizando a abordagem orientada a dados (data driven) com todos os métodos necessários e utilizado autenticação com perfis de acesso.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Tecnologias utilizadas
+## Aplicação 
+- DART
+- Flutter
+- Animações
+# Como executar o projeto
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Aplicação
+Pré-requisitos: 
+- Flutter 2.0.6
+- Dispositivo ANDROID API 30+ ou Emulador ANDROID
+
+```bash
+# clonar repositório
+git clone https://github.com/edpachecojr/alcool-ou-gasolina
+
+# entrar na pasta do projeto
+cd alcool-ou-gasolina
+
+# restaurar o s pacotes do projeto
+flutter pub get
+
+# executar o projeto
+flutter run
+```
+
+# Autor
+
+Edivaldo Pacheco Junior
+
+https://www.linkedin.com/in/edivaldo-pacheco/
+
